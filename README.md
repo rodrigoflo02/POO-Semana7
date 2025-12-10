@@ -11,7 +11,7 @@ Estructura general del proyecto
 El proyecto esta estructurado en 3 paquetes: Model que contiene las clases UnidadOperativa; Data que contiene las clase gestordatos encargado del proceso de creacion de instancias; y UI que contiene la clase main donde se ejecuta el codigo.
 
 Instrucciones
-1- Clone el repositorio desde Github https://github.com/rodrigoflo02/POO-Semana-5.git
+1- Clone el repositorio desde Github https://github.com/rodrigoflo02/POO-Semana7.git
 2- Abrir el proyecto con Intellij Idea 
 3- En menu, abrir el proyecto seleccionando la carpeta de este 
 4- Para modificar las plantas o centros en la clase GestorDatos use la sintaxis del comando PlantaProceso nombreplanta = new PlantaProceso("nombre","comuna",capacidadproceso,numerolineas) o 
